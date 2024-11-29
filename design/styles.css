@@ -39,3 +39,12 @@ input::-webkit-inner-spin-button {
     display: flex;
     justify-content: center;
 }
+
+.button-total, .total{
+    display: flex;
+    justify-content: center;
+}
+
+.total{
+    margin-top: 20px;
+}
